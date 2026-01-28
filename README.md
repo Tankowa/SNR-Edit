@@ -53,9 +53,12 @@ Please stay tuned!
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@article{jiang2026snredit,
-  title={SNR-Edit: Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing},
-  author={Jiang, Lifan and Wu, Boxi and Pei, Yuhang and Wu, Tianrun and Chen, Yongyuan and Zhao, Yan and Yu, Shiyu and Cai, Deng},
-  journal={Submitted to ICML},
-  year={2026}
+@misc{jiang2026snreditstructureawarenoiserectification,
+      title={SNR-Edit: Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing}, 
+      author={Lifan Jiang and Boxi Wu and Yuhang Pei and Tianrun Wu and Yongyuan Chen and Yan Zhao and Shiyu Yu and Deng Cai},
+      year={2026},
+      eprint={2601.19180},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.19180}, 
 }
