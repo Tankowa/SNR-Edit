@@ -34,7 +34,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://huggingface.co/datasets/qingjiu151/SNR-Bench">
-    <img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Dataset">
+    <img src="https://img.shields.io/badge/Dataset-HuggingFace-111111?style=flat&logo=huggingface&logoColor=FFD21E" alt="Dataset">
   </a>
 </p>
 
